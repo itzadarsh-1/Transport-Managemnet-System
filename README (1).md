@@ -50,6 +50,7 @@ The app stores records in browser localStorage, so it works without installing a
 
 
 
-
+Open Live in project in netlify
+https://vahanmitra.netlify.app/
 
 
